@@ -1,0 +1,5 @@
+{
+  "name": "second-brain",
+  "description": "Second-brain skills (morning-brief, ingest, learn, remsleep, project-kickstart and more) packaged so they appear and toggle in Customize -> Skills. Skills operate on the second-brain project working directory.",
+  "version": "1.0.0"
+}

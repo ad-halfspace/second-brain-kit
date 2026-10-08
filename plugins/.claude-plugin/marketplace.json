@@ -1,0 +1,12 @@
+{
+  "name": "second-brain-local",
+  "description": "Local marketplace for the second-brain plugin.",
+  "owner": { "name": "Second Brain kit" },
+  "plugins": [
+    {
+      "name": "second-brain",
+      "source": "./second-brain",
+      "description": "Second-brain skills, toggleable in Customize -> Skills."
+    }
+  ]
+}

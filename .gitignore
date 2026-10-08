@@ -1,0 +1,15 @@
+.DS_Store
+*.pyc
+__pycache__/
+node_modules/
+.obsidian/workspace*.json
+
+# Office lock/temp files
+~$*
+
+# Task board build output
+workspace/task-board/build/
+workspace/task-board/dist/
+# Synced plugin copies (regenerate with plugins/sync-skills.sh)
+plugins/second-brain/skills/
+.claude/settings.local.json
